@@ -1,5 +1,5 @@
 # Ants_project
-This project was carried out by Francesco Malferrari (me), Lucrezia Sitta and [Lorenzo Rossi](https://github.com/SnowyCoder) for the Unimore course "Learning and evolution of artificial systems" during May-June 2021.
+This project was carried out by Francesco Malferrari (me), Lucrezia Sitta and [Lorenzo Rossi](https://github.com/SnowyCoder) for the Unimore course "Apprendimento ed evoluzione in sistemi artificiali" during May-June 2021.
 
 Although this work was optional, it was a great experience to learn a programming language (Netlogo) through which to create artificial systems that emulate natural systems.
 
